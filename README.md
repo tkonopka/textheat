@@ -2,6 +2,8 @@
 
 Textbox and heatmap in one React component
 
+Check out the demo [here](https://tkonopka.github.io/textheat/).
+
 
 ## Description
 
@@ -32,6 +34,8 @@ Run the examples app.
 ```
 npm run examples_start
 ```
+
+This command should launch a browser with a local copy of the examples app, which is also available [here](https://tkonopka.github.io/textheat/).
 
 
 ## Comments, questions, issues

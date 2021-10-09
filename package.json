@@ -7,7 +7,8 @@
     "build": "babel --copy-files src --out-dir build",
     "examples_start": "npm run build && cd examples && npm start",
     "examples_build": "npm run build && cd examples && npm build",
-    "test": "node tests/index.js"
+    "test": "node tests/index.js",
+    "deploy": "npm run build && cd examples && npm deploy"
   },
   "keywords": [
     "react",

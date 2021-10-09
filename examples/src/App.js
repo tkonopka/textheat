@@ -86,8 +86,8 @@ function SectionApi() {
         "<TextHeat\n    ref={ref}\n    value='Lorem impsum dolor ...'\n/>\n"
     const later = "\n" +
         "// fetch text and weights from the component\nref.current.getContent()\n" +
-        "// increment weights on highlighted section\nref.current.changeSelected(0.5, true)\n" +
-        "// set weight on highlighted section to a value\nref.current.changeSelected(0.5, false)"
+        "// increment weight on a selected/highlighted section\nref.current.incrementWeight(0.2)\n" +
+        "// set weight on selected/highlighted section to a value\nref.current.setWeight(0.5)"
     return <>
         <h2>Api</h2>
         <p>
