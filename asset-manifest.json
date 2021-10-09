@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/textheat/static/css/main.0e325af4.chunk.css",
+    "main.js": "/textheat/static/js/main.c1a78f3d.chunk.js",
+    "main.js.map": "/textheat/static/js/main.c1a78f3d.chunk.js.map",
+    "runtime-main.js": "/textheat/static/js/runtime-main.17d64046.js",
+    "runtime-main.js.map": "/textheat/static/js/runtime-main.17d64046.js.map",
+    "static/js/2.231691ce.chunk.js": "/textheat/static/js/2.231691ce.chunk.js",
+    "static/js/2.231691ce.chunk.js.map": "/textheat/static/js/2.231691ce.chunk.js.map",
+    "static/js/3.d4e1a89d.chunk.js": "/textheat/static/js/3.d4e1a89d.chunk.js",
+    "static/js/3.d4e1a89d.chunk.js.map": "/textheat/static/js/3.d4e1a89d.chunk.js.map",
+    "index.html": "/textheat/index.html",
+    "static/css/main.0e325af4.chunk.css.map": "/textheat/static/css/main.0e325af4.chunk.css.map",
+    "static/js/2.231691ce.chunk.js.LICENSE.txt": "/textheat/static/js/2.231691ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17d64046.js",
+    "static/js/2.231691ce.chunk.js",
+    "static/css/main.0e325af4.chunk.css",
+    "static/js/main.c1a78f3d.chunk.js"
+  ]
+}
