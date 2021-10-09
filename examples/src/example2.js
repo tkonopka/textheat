@@ -1,12 +1,9 @@
 /** Example use of a TextHeat component **/
 
-import TextHeat from "textheat";
-import React from "react";
+import TextHeat from "textheat"
+import React from "react"
 import TextHeatToolbar from "./toolbar"
-
-
-const example_value = "Lorem ipsum dolor sit amet, consectetur adipiscing "+
-    "elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+import {sentence} from "./lorem_ipsum.json"
 
 
 export default function ExampleAdjustable() {
@@ -16,7 +13,7 @@ export default function ExampleAdjustable() {
         <TextHeat
             ref={ref}
             className="textheat"
-            value={example_value}
+            value={sentence}
             editable={false}
         />
     </>

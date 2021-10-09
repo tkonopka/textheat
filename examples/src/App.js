@@ -92,9 +92,9 @@ function SectionApi() {
         <h2>Api</h2>
         <p>
             Consider the example text '<i>Lorem ipsum dolor ...</i>'.
-            If there are no weights associated with this text, then a basic
-            <code>TextHeat</code> component an be constructed by setting only
-            the <code>value</code> property.
+            If there are no weights associated with the text, then a
+            basic <code>TextHeat</code> component can be constructed by setting
+            only the <code>value</code> prop.
         </p>
         <pre>
             <code>{simple}</code>

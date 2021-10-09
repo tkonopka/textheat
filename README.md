@@ -1,6 +1,6 @@
 # textheat
 
-Textbox and heatmap in one React component
+Textbox and heatmap in one React component.
 
 Check out the demo [here](https://tkonopka.github.io/textheat/).
 
@@ -17,7 +17,7 @@ The scheme can be changed to other colors, e.g.
 
 ![Basic textheat example](./lorem_ipsum_2.png)
 
-The weights (colors) of the `TextHeat` box can be adjusted using an API. The box can also be editable. These features are demonstrated in the 'examples' app.
+The weights (colors) can be adjusted using an API. The box can also be editable. These features are demonstrated in the 'examples' app [here](https://tkonopka.github.io/textheat/).
 
 
 ## Setup
@@ -35,7 +35,7 @@ Run the examples app.
 npm run examples_start
 ```
 
-This command should launch a browser with a local copy of the examples app, which is also available [here](https://tkonopka.github.io/textheat/).
+This command should launch a browser with a local copy of the examples app.
 
 
 ## Comments, questions, issues
