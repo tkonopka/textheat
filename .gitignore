@@ -1,0 +1,15 @@
+# dev environemnt
+.idea
+
+# dependencies
+node_modules
+examples/node_modules
+
+# testing
+coverage
+examples/coverage
+
+# production
+build
+examples/build
+

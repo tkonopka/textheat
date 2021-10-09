@@ -1,0 +1,8 @@
+{
+  "short_name": "TextHeat Examples",
+  "name": "TextHeat Examples",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

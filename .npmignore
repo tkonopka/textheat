@@ -1,0 +1,8 @@
+# dev environment
+.idea
+examples
+coverage
+build
+
+# dependencies
+node_modules

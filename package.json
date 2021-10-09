@@ -1,0 +1,24 @@
+{
+  "name": "textheat",
+  "version": "0.1.0",
+  "description": "input component with a heatmap",
+  "main": "/build/TextHeat.js",
+  "scripts": {
+    "build": "babel --copy-files src --out-dir build",
+    "examples_start": "npm run build && cd examples && npm start",
+    "examples_build": "npm run build && cd examples && npm build",
+    "test": "node tests/index.js"
+  },
+  "keywords": [
+    "react",
+    "input",
+    "heatmap"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6",
+    "@babel/preset-react": "^7.14.5"
+  }
+}
